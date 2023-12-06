@@ -2,6 +2,10 @@
 
 **Markdown** is way a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
+| ggfd | dfgfg |
+| --- | --- |
+| fgf | dfgf |
+
 ![The Markdown Mark](images/markdown-red.png)  
 _Figure 1: The Markdown Mark_
 
