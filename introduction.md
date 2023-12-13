@@ -11,6 +11,10 @@ _Figure 1: The Markdown Mark_
 
 ![[images/chase-moyer-730496-unsplash.jpg]]
 
+[[sample-page]]
+
+[[sample-page|Sample Page]]
+
 Some of the key benefits are:
 
 1. Markdown is simple to learn, with minimal extra characters, so it's also quicker to write content.
