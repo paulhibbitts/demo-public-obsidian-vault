@@ -9,12 +9,6 @@
 ![The Markdown Mark](images/markdown-red.png)  
 _Figure 1: The Markdown Mark_
 
-![[images/chase-moyer-730496-unsplash.jpg]]
-
-[[sample-page]]
-
-[[sample-page|Sample Page]]
-
 Some of the key benefits are:
 
 1. Markdown is simple to learn, with minimal extra characters, so it's also quicker to write content.
@@ -593,5 +587,26 @@ and using a local image (which also displays in GitHub):
 ![Image of Octocat](images/octocat.png)
 ```
 ![Image of Octocat](images/octocat.png)
+
+## WikiLinks
+
+[[sample-page]]
+
+```markdown
+[[sample-page]]
+```
+
+[[sample-page|Sample Page]]
+
+```markdown
+[[sample-page|Sample Page]]
+```
+
+Image (not supported in Docsify-This):
+![[images/chase-moyer-730496-unsplash.jpg]]
+
+```markdown
+!![[images/chase-moyer-730496-unsplash.jpg]]
+```
 
 > Note: Example page content from [GetGrav.org](https://learn.getgrav.org/17/content/markdown), included to demonstrate the portability of Markdown-based content
