@@ -602,11 +602,19 @@ and using a local image (which also displays in GitHub):
 [[sample-page|Sample Page]]
 ```
 
-Image (not supported in Docsify-This):
+Image (not supported in production Docsify-This):
 ![[images/chase-moyer-730496-unsplash.jpg]]
 
 ```markdown
 ![[images/chase-moyer-730496-unsplash.jpg]]
 ```
+
+Image with Alt Text (not supported in production Docsify-This):
+![[images/chase-moyer-730496-unsplash.jpg|Mountains]]
+
+```markdown
+![[images/chase-moyer-730496-unsplash.jpg|Mountains]]
+```
+
 
 > Note: Example page content from [GetGrav.org](https://learn.getgrav.org/17/content/markdown), included to demonstrate the portability of Markdown-based content
