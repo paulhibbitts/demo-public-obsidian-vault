@@ -602,14 +602,14 @@ and using a local image (which also displays in GitHub):
 [[sample-page|Sample Page]]
 ```
 
-Image (not supported in production Docsify-This):
+Image:
 ![[images/chase-moyer-730496-unsplash.jpg]]
 
 ```markdown
 ![[images/chase-moyer-730496-unsplash.jpg]]
 ```
 
-Image with Alt Text (not supported in production Docsify-This):
+Image with Alt Text:
 ![[images/chase-moyer-730496-unsplash.jpg|Mountains]]
 
 ```markdown
